@@ -1,0 +1,11 @@
+
+server.port=8094
+spring.application.name=payments-service
+
+spring.thymeleaf.prefix=classpath:/templates/webap/
+spring.thymeleaf.suffix=.jsp
+
+spring.data.mongodb.host=localhost
+spring.data.mongodb.port=27017
+spring.data.mongodb.database=Payment
+
